@@ -1,0 +1,14 @@
+C:\CSharp\2planilha\bin\Debug\net10.0\2planilha.exe
+C:\CSharp\2planilha\bin\Debug\net10.0\2planilha.deps.json
+C:\CSharp\2planilha\bin\Debug\net10.0\2planilha.runtimeconfig.json
+C:\CSharp\2planilha\bin\Debug\net10.0\2planilha.dll
+C:\CSharp\2planilha\bin\Debug\net10.0\2planilha.pdb
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.AssemblyInfoInputs.cache
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.AssemblyInfo.cs
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.csproj.CoreCompileInputs.cache
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.dll
+C:\CSharp\2planilha\obj\Debug\net10.0\refint\2planilha.dll
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.pdb
+C:\CSharp\2planilha\obj\Debug\net10.0\2planilha.genruntimeconfig.cache
+C:\CSharp\2planilha\obj\Debug\net10.0\ref\2planilha.dll
