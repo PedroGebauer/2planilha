@@ -1,0 +1,14 @@
+C:\CSharp\atividade3planilha2\bin\Debug\net10.0\atividade3planilha2.exe
+C:\CSharp\atividade3planilha2\bin\Debug\net10.0\atividade3planilha2.deps.json
+C:\CSharp\atividade3planilha2\bin\Debug\net10.0\atividade3planilha2.runtimeconfig.json
+C:\CSharp\atividade3planilha2\bin\Debug\net10.0\atividade3planilha2.dll
+C:\CSharp\atividade3planilha2\bin\Debug\net10.0\atividade3planilha2.pdb
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.AssemblyInfoInputs.cache
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.AssemblyInfo.cs
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.csproj.CoreCompileInputs.cache
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.dll
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\refint\atividade3planilha2.dll
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.pdb
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\atividade3planilha2.genruntimeconfig.cache
+C:\CSharp\atividade3planilha2\obj\Debug\net10.0\ref\atividade3planilha2.dll
