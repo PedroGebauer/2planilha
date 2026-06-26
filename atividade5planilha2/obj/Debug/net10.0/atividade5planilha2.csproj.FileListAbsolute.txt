@@ -1,0 +1,14 @@
+C:\CSharp\atividade5planilha2\bin\Debug\net10.0\atividade5planilha2.exe
+C:\CSharp\atividade5planilha2\bin\Debug\net10.0\atividade5planilha2.deps.json
+C:\CSharp\atividade5planilha2\bin\Debug\net10.0\atividade5planilha2.runtimeconfig.json
+C:\CSharp\atividade5planilha2\bin\Debug\net10.0\atividade5planilha2.dll
+C:\CSharp\atividade5planilha2\bin\Debug\net10.0\atividade5planilha2.pdb
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.AssemblyInfoInputs.cache
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.AssemblyInfo.cs
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.csproj.CoreCompileInputs.cache
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.dll
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\refint\atividade5planilha2.dll
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.pdb
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\atividade5planilha2.genruntimeconfig.cache
+C:\CSharp\atividade5planilha2\obj\Debug\net10.0\ref\atividade5planilha2.dll
